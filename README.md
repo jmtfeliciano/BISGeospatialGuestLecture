@@ -1,4 +1,4 @@
-# BISGeospatialGuestLecture
+# BIS Geospatial Guest Lecture Materials
 
 Fall 2025 Supplemental Materials For Guest Lecture for Yale's Advanced R and SAS course taught by Dr. Elizabeth Claus.
 
